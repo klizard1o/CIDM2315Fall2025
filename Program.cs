@@ -1,5 +1,5 @@
 ﻿namespace Homework4;
-
+//Didn't know how to answer:(
 class Program
 {
     static void Main(string[] args)
@@ -26,4 +26,5 @@ class Program
     }
 
     //Q2_method
+
 }
